@@ -1,2 +1,2 @@
 # BezierCurves
-Matlab program that creates Bezier curves around lines
+Python program that creates Bezier curves around lines
